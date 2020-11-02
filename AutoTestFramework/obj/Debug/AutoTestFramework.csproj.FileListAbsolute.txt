@@ -1,0 +1,14 @@
+C:\Users\Baba Wanga\source\repos\AutoTestFramework\AutoTestFramework\bin\Debug\AutoTestFramework.exe.config
+C:\Users\Baba Wanga\source\repos\AutoTestFramework\AutoTestFramework\bin\Debug\AutoTestFramework.exe
+C:\Users\Baba Wanga\source\repos\AutoTestFramework\AutoTestFramework\bin\Debug\AutoTestFramework.pdb
+C:\Users\Baba Wanga\source\repos\AutoTestFramework\AutoTestFramework\bin\Debug\WebDriver.dll
+C:\Users\Baba Wanga\source\repos\AutoTestFramework\AutoTestFramework\bin\Debug\WebDriver.Support.dll
+C:\Users\Baba Wanga\source\repos\AutoTestFramework\AutoTestFramework\bin\Debug\WebDriver.xml
+C:\Users\Baba Wanga\source\repos\AutoTestFramework\AutoTestFramework\bin\Debug\WebDriver.Support.xml
+C:\Users\Baba Wanga\source\repos\AutoTestFramework\AutoTestFramework\obj\Debug\AutoTestFramework.csproj.CoreCompileInputs.cache
+C:\Users\Baba Wanga\source\repos\AutoTestFramework\AutoTestFramework\obj\Debug\AutoTestFramework.csproj.CopyComplete
+C:\Users\Baba Wanga\source\repos\AutoTestFramework\AutoTestFramework\obj\Debug\AutoTestFramework.exe
+C:\Users\Baba Wanga\source\repos\AutoTestFramework\AutoTestFramework\obj\Debug\AutoTestFramework.pdb
+C:\Users\Baba Wanga\source\repos\AutoTestFramework\AutoTestFramework\bin\Debug\nunit.framework.dll
+C:\Users\Baba Wanga\source\repos\AutoTestFramework\AutoTestFramework\bin\Debug\nunit.framework.pdb
+C:\Users\Baba Wanga\source\repos\AutoTestFramework\AutoTestFramework\bin\Debug\nunit.framework.xml
